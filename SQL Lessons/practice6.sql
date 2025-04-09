@@ -1,0 +1,16 @@
+-- CREATE TABLE Jan_2023 AS
+-- SELECT *
+-- FROM job_postings_fact
+-- WHERE EXTRACT(YEAR FROM job_posted_date) = 2023 AND
+-- EXTRACT(MONTH FROM (job_posted_date AT TIME ZONE 'UTC' AT TIME ZONE 'America/New_York')) = 1;
+
+-- CREATE TABLE Feb_2023 AS
+-- SELECT *
+-- FROM job_postings_fact
+-- WHERE EXTRACT(YEAR FROM job_posted_date) = 2023 AND
+-- EXTRACT(MONTH FROM (job_posted_date AT TIME ZONE 'UTC' AT TIME ZONE 'America/New_York')) = 2;
+-- CREATE TABLE March_2023 AS
+-- SELECT *
+-- FROM job_postings_fact
+-- WHERE EXTRACT(YEAR FROM job_posted_date) = 2023 AND
+-- EXTRACT(MONTH FROM (job_posted_date AT TIME ZONE 'UTC' AT TIME ZONE 'America/New_York')) = 3;
