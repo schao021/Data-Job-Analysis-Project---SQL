@@ -15,8 +15,8 @@ All data hails from [SQL Course](https://lukebarousse.com/sql).
    
 # Tools I Used
 For my deep dive into data analyst job market, I used the power of several tools:
--**SQL**: The backbone of my analysis, allowing me to query the database for critical insights.
--PostgresSQL: The chosen database management system
+- **SQL**: The backbone of my analysis, allowing me to query the database for critical insights.
+- PostgresSQL: The chosen database management system
 - Visual Studio Code: My main editor for database managements and executing SQL queries.
 # The Analysis
 
